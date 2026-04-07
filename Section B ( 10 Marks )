@@ -1,0 +1,33 @@
+Section B – Intermediate (3 × 10 = 30 marks)
+Q3. Palindrome String (10 marks)
+Check whether a given string is a palindrome.
+Input:
+A string
+Output:
+Palindrome or Not Palindrome
+Example:
+Input: madam
+Output: Palindrome
+
+
+Q4. Find Largest Number (10 marks)
+Find the largest among three numbers.
+Input:
+Three integers a b c
+Output:
+Largest number
+Example:
+Input: 3 9 5
+Output: 9
+
+
+
+Q5. Count Vowels (10 marks)
+Count the number of vowels in a string.
+Input:
+A string
+Output:
+Number of vowels
+Example:
+Input: hello
+Output: 2
