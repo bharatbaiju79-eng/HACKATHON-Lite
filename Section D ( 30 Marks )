@@ -1,0 +1,14 @@
+Section D – Challenge (1 × 30 = 30 marks)
+
+
+Q8. Pattern Printing (30 marks)
+Print the pattern for a given n.
+Input:
+4
+Output:
+Text
+Copy code
+*
+**
+***
+****
