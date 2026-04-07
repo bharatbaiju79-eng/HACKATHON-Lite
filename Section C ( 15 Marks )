@@ -1,0 +1,23 @@
+Section C – Advanced (2 × 15 = 30 marks)
+
+
+Q6. Fibonacci Series (15 marks)
+Print the first n terms of the Fibonacci series.
+Input:
+A number n
+Output:
+Fibonacci series
+Example:
+Input: 5
+Output: 0 1 1 2 3
+
+
+Q7. Find Missing Number (15 marks)
+Given an array containing numbers from 1 to n with one missing number, find the missing number.
+Input:
+Array of size n-1
+Output:
+Missing number
+Example:
+Input: 1 2 4 5
+Output: 3
